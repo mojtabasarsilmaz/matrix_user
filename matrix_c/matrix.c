@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+/* 
+    
+*/
 char *MSGS[] = {
     "How many rows ? ",
     "How many columns ? ",
